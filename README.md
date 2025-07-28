@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Guto
+# 👋 Olá! Meu nome é César Augusto
 
 Sou desenvolvedor **Full Stack Java**, com experiência em desenvolvimento web utilizando tecnologias modernas e robustas. Apaixonado por backend, mas também com boa atuação no frontend!
 
